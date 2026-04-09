@@ -1,1 +1,1 @@
-Sample Go module
+Sample Go module for testing
